@@ -1,2 +1,2 @@
 # GSoC
-GSoC
+GSoC files, exercises, etc.
