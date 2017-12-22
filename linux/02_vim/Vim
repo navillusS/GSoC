@@ -1,0 +1,24 @@
+Vim en un editor de texto super robusto, tiene muchos atajos. Aunque la curva de aprendizaje es muy larga, tiene muchas ventajas dominar este editor de texto.
+
+Bueno, aca algunos comandos 
+ESC : ingresa al modo comando 
+i : entra en modo inserción desde la misma línea 
+o : entra en modo inserción desde la siguiente línea 
+1G : va a la primera línea 
+23G : va a la línea 23 
+:45 : va a la línea 45 
+G : va a la ultima línea 
+/palabra : busca una cadena 
+n : sigue buscando
+dd : corta o borra una línea 
+d8d : corta o borra 8 líneas 
+yy : copia una línea 
+y7y : copia 7 líneas 
+p : pega el contenido del portapapel 
+5p : pega 5 veces el contenido del portapapel 
+u : deshace la ultima acción 
+ctrl+R : rehace la ultima acción
+x : borra una letra :w : graba el archivo actual 
+:wq : graba y sale 
+:w! : graba de forma forzada 
+:wq! : graba y sale forzadamente :q! : sale forzadamente

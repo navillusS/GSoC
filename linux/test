@@ -1,0 +1,26 @@
+Test
+touch /tmp/ mi_prueba
+echo "PeruRumboGSoC2020" > mi_prueba
+
+vi mi_puerta
+
+Ya en vim
+
+comando seria
+-yy
+Luego 
+-30p
+
+para cambiar la palabra
+:1,$s/2020/2018/g
+
+para mostrar las lineas del 15 al 25 en el terminal
+
+$head -n 25 mi_prueba | tail -n 10 mi_prueba
+
+find -mtime 7 -size 300M
+
+
+
+
+
