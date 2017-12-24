@@ -1,7 +1,7 @@
 cd comando
 Sirve para cambiar de directorio
 
-# Ej: 
+ Ej: 
 
 $cd /home/navillus/Documents #entras al directorio Documents del usuario navillus
 $cd .. # el dos puntos seguidos significa el directorio que contiene el directorio en donde estamos trabajando, o sea, una rama afuera de la
